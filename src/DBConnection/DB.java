@@ -1,3 +1,5 @@
+package DBConnection;
+
 import Excecoes.DbException;
 
 import java.io.FileInputStream;

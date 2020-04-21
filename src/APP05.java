@@ -1,3 +1,4 @@
+import DBConnection.DB;
 import Excecoes.DbException;
 
 import java.sql.Connection;
